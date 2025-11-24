@@ -1,8 +1,3 @@
-# Regression_Boston-House-Price_KNR_DTR_SVR
-Sure! Here’s a **well-structured README file** you can use for your housing price regression project:
-
----
-
 # Housing Price Prediction Using Regression Models
 
 ## Project Overview
